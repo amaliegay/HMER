@@ -1,0 +1,13 @@
+89_david	x ^ { \prime } = x \cos \theta + y \sin \theta
+200922-949-66	\frac { \sqrt { 1 + \cos ^ { 2 } ( \theta ) } } { 2 } = \cos ( 2 \theta )
+200923-131-82	i
+200923-131-185	1
+200923-1251-183	\alpha s
+200923-1251-246	j
+200926-1550-78	\frac { x _ { 1 } } { \frac { x _ { 2 } } { \frac { x _ { 3 } } { x _ { 4 } } } }
+2009220-1327-68	\tan ( \frac { \pi } { 2 } ) = \infty
+formulaire034-equation068	\cos ( \beta )
+formulaire038-equation061	x _ { 1 } + x _ { 2 } = - \frac { b } { a }
+MfrDB2953	\frac { 1 } { n ^ { 2 } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n }
+MfrDB3378	( 1 + x ) ^ { n } = \sum _ { k = 0 } ^ { \infty } n k x ^ { k }
+TrainData2_16_sub_41	\frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta }
